@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: sketchy
     toc: true
 
 editor: source
