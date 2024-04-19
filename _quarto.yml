@@ -3,8 +3,15 @@ project:
   output-dir: docs
   
 website:
-  title: " "
+  title: ""
   navbar:
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/gsingh91/website
+          - text: Report an Issue
+            url:  https://github.com/gsingh91/website/issues
     left:
       - href: index.qmd
         text: Home
@@ -20,6 +27,11 @@ format:
       dark: [solar, custom.scss]
       light: [flatly, custom-light.scss]
     toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
 
 editor: source
 

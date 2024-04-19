@@ -1,5 +1,5 @@
 ---
-title: "Gagandeep Singh <br>(guh-gun-deep) <br> Toronto, Canada"
+title: "Gagandeep Singh <br>(guh-gun-deep)"
 from: markdown+emoji
 about:
   id: me
@@ -20,7 +20,7 @@ about:
 
 :::{#me}
 
-I am a Sales and Solutions Engineering professional with over 7+ years of experience in working across the fields of software engineering, data science and technical sales.
+I am a Sales and Solutions Engineering professional with over 7+ years of experience in working across the fields of software engineering, data science and technical sales. I am currently based in Toronto, Canada :canada:
 
 When I am not developing code, I am trying out a new recipe, exploring a new city or reading a good book(you can find my reading list [here](https://www.goodreads.com/review/list/118346415-gagandeep-singh?ref=nav_mybooks&shelf=read)!)
 
