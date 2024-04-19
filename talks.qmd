@@ -1,0 +1,26 @@
+---
+title: "Talks"
+format: 
+  html: 
+    css: styles.css
+---
+Some of the talks I have given over the years:
+
+<table border="0">
+  <tr>
+    <td>{{< video https://www.youtube.com/watch?v=Fyc6qTApN9U&t=6s start=735 aspect-ratio="1x1" width="250" height="175">}} </td>
+    <td>How to use RStudio Pro on AWS Sagemaker<br><a href="https://github.com/sol-eng/SagemakerDemo">Github Repo</a></td>
+    <td>Online<br>June 2023</td>
+  </tr>
+  <tr>
+    <td>{{< video https://www.youtube.com/watch?v=Egrsl-vhack aspect-ratio="1x1" width="250" height="175">}}</td>
+    <td>Developing Python data science workflows using RStudio tools<br><a href="https://github.com/sol-eng/bike_predict_python">Github Repo</a></td>
+    <td>RStudio Conference, Washington DC<br>July 2022</td>
+  </tr>
+  <tr>
+    <td>{{< video https://www.youtube.com/watch?v=SbLSlWfjzRM aspect-ratio="1x1" width="250" height="175">}}</td>
+    <td>Building Enterprise Data Science Infrastructure<br><a href="https://cascadiarconf.com/years/2019/agenda/">Talk</a></td>
+    <td>Cascadia R Conference, Bellevue, WA<br>June 2019</td>
+  </tr>
+</table>
+

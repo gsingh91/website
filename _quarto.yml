@@ -3,24 +3,22 @@ project:
   output-dir: docs
   
 website:
-  title: "Gagan's website"
+  title: " "
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/gsingh91
+      - talks.qmd
+      - workshops.qmd
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Built with [Quarto](https://quarto.org/) & Hosted on [GitHub](https://github.com/)"
     left: "&copy; Copyright 2023, Gagandeep Singh"
 
 format:
   html:
-    theme: sketchy
+    theme:
+      dark: [solar, custom.scss]
+      light: [flatly, custom-light.scss]
     toc: true
 
 editor: source

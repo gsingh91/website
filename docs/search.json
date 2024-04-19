@@ -16,8 +16,120 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Gagandeep Singh (guh-gun-deep) Toronto, Canada",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n  \n  \nI am a Sales and Solutions Engineering professional with over 7+ years of experiece in working across the fields of software engineering, data science and technical sales.\nWhen I am not sitting in front of a computer, I am trying out a new recipe, exploring a new city or reading a good book(you can find my reading list here!)\n\nExperience\nI am currently working as a Senior Solutions Engineer at Posit. Prior to that, I have worked as a Data Science consultant for various fortune 500 companies.\nI have used SQL, R and Python widely throughout my career. I also have extensive familiarity with DevOps technologies like Ansible, Terraform, Kubernetes and Helm.\n\n\nEducation\n\n🇺🇸 University of Washington | Seattle, WA MS in Information Management(Data Science) | 2016\n🇮🇳 GGS Indraprastha University | New Delhi Bachelors of Technology in Computer Science | 2012\n\n\n\nTechnical certifications\n\nCertified Kubernetes Administrator, in-progress\nAWS Certified Cloud Practitioner, 2020\nPosit Certified Professional Administrator, 2019\nRed Hat Certified Engineer, 2011"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gagandeep Singh (guh-gun-deep)",
+    "section": "",
+    "text": "Masters of Science in Information Management(Data Science specialization), University of Washington in Seattle 🇺🇸\nBachelors of Technology in Computer Science, Guru Gobind Singh Indraprastha University, New Delhi 🇮🇳"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gagandeep Singh (guh-gun-deep)",
+    "section": "",
+    "text": "I am currently working as a Senior Solutions Engineer at Posit. Prior to that, I have worked as a Data Science consultant for various fortune 500 companies.\nI have built data science workfloes with open source tools in R and Python. I also have extensive familiarity with DevOps technologies like Ansible, Terraform, Kubernetes and Helm."
+  },
+  {
+    "objectID": "index.html#webinars",
+    "href": "index.html#webinars",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Figure 1: Elephant"
+  },
+  {
+    "objectID": "workshops.html#project-2",
+    "href": "workshops.html#project-2",
+    "title": "Workshops",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "workshops.html#project-3",
+    "href": "workshops.html#project-3",
+    "title": "Workshops",
+    "section": "Project 3",
+    "text": "Project 3\nI have conducted various workshops:\nMost recently, I lead a workshop on using Python with Posit products at Posit Conference 2023.\n\nAt Cascadia Conference 2019, I delivered a workshop on using Shiny"
+  },
+  {
+    "objectID": "talks.html#project-2",
+    "href": "talks.html#project-2",
+    "title": "Talks",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "talks.html#project-3",
+    "href": "talks.html#project-3",
+    "title": "Talks",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "List of workshops I have conducted:\n\n\n\n\n\n\nData Science Workflows with Posit Tools — Python FocusGithub Repo\n\n\nPosit Conference, Chicago ILSept 2023\n\n\n\n\n\n\n\nGetting started with ShinyTalk\n\n\nCascadia R Conference, Bellevue, WAJune 2019"
+  },
+  {
+    "objectID": "workshops.html#project-1",
+    "href": "workshops.html#project-1",
+    "title": "Workshops",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Some of the talks I have given over the years:\n\n\n\n\n\n\nHow to use RStudio Pro on AWS SagemakerGithub Repo\n\n\nOnlineJune 2023\n\n\n\n\n\n\n\nDeveloping Python data science workflows using RStudio toolsGithub Repo\n\n\nRStudio Conference, Washington DCJuly 2022\n\n\n\n\n\n\n\nBuilding Enterprise Data Science InfrastructureTalk\n\n\nCascadia R Conference, Bellevue, WAJune 2019"
+  },
+  {
+    "objectID": "index.html#technical-certifications",
+    "href": "index.html#technical-certifications",
+    "title": "Gagandeep Singh (guh-gun-deep)",
+    "section": "",
+    "text": "Certified Kubernetes Administrator, in-progress\nAWS Certified Cloud Practitioner, 2020\nPosit Certified Professional Administrator, 2019\nRed Hat Certified Engineer, 2011"
+  },
+  {
+    "objectID": "talks.html#first-column",
+    "href": "talks.html#first-column",
+    "title": "Talks",
+    "section": "First column",
+    "text": "First column\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column"
+  },
+  {
+    "objectID": "talks.html#second-column",
+    "href": "talks.html#second-column",
+    "title": "Talks",
+    "section": "Second column",
+    "text": "Second column\nand here\nMore text"
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "I would like to have text here\nSentence becomes longer, it should automatically stay in their column"
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks",
+    "section": "",
+    "text": "Under the heading Custom Layouts the Quarto documentation also explains a more general approach: Instead of using layout-ncol or layout_nrow where all columns are of the same size, you can also create more complex designs with the layout attribute. In the example of the OP the first column has more text than the second column, so we could for instance to specify a column distribution of 2:1."
   }
 ]

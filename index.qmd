@@ -1,19 +1,50 @@
 ---
-title: "About Me"
+title: "Gagandeep Singh <br>(guh-gun-deep) <br>Toronto, Canada"
+from: markdown+emoji
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/gagan91/
+        - icon: github
+          text: Github
+          url: https://github.com/gsingh91
+        - icon: envelope
+          text: Email
+          url: mailto:singh.gagandeep491@gmail.com 
+  image: img/profile_picture.jpeg
+  image-shape: round
 ---
 
 :::{#me}
 
-## Goals
+I am a Sales and Solutions Engineering professional with over 7+ years of experiece in working across the fields of software engineering, data science and technical sales.
 
-## Education
+When I am not sitting in front of a computer, I am trying out a new recipe, exploring a new city or reading a good book(you can find my reading list [here](https://www.goodreads.com/review/list/118346415-gagandeep-singh?ref=nav_mybooks&shelf=read)!)
 
-## Experience
+### Experience
+
+I am currently working as a Senior Solutions Engineer at [Posit](https://posit.co/). Prior to that, I have worked as a Data Science consultant for various fortune 500 companies.
+
+I have used SQL, R and Python widely throughout my career. I also have extensive familiarity with DevOps technologies like Ansible, Terraform, Kubernetes and Helm.
+
+### Education
+
+- :us: University of Washington | Seattle, WA
+<br>MS in Information Management(Data Science) | 2016
+
+- :india: GGS Indraprastha University | New Delhi
+<br>Bachelors of Technology in Computer Science | 2012
+
+### Technical certifications
+
+
+- Certified Kubernetes Administrator, in-progress
+- AWS Certified Cloud Practitioner, 2020
+- Posit Certified Professional Administrator, 2019
+- Red Hat Certified Engineer, 2011
 
 :::
 
-Hey there! Thanks for checking out my web site!
