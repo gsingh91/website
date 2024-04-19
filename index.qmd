@@ -1,5 +1,5 @@
 ---
-title: "Gagandeep Singh <br>(guh-gun-deep) <br>Toronto, Canada"
+title: "Gagandeep Singh <br>(guh-gun-deep) <br> Toronto, Canada"
 from: markdown+emoji
 about:
   id: me
